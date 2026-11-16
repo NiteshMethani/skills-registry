@@ -2,5 +2,6 @@ skills:
   ponytail:
     path: skills/ponytail
     status: active
+    created_at: 2026-11-16
     source: https://github.com/DietrichGebert/ponytail/blob/main/skills/ponytail/SKILL.md
     license: MIT
