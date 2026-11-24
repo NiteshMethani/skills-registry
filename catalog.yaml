@@ -5,3 +5,9 @@ skills:
     created_at: 2026-11-16
     source: https://github.com/DietrichGebert/ponytail/blob/main/skills/ponytail/SKILL.md
     license: MIT
+  socratic-tutor:
+    path: skills/socratic-tutor
+    status: active
+    created_at: 2026-11-24
+    source: https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md
+    license: MIT
